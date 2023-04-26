@@ -1,0 +1,605 @@
+﻿CHEM,CAS_Num,MW,MP,Kow,VP,WS,Koc,Biod_class
+Formaldehyde,000050-00-0,30.03,-110.94,2.238721139,465000,57020,7.752,readily biodegradable
+"Propanoic acid, 2-hydroxy-",000050-21-5,90.08,22.66,0.223872114,3.81,1000000,0.2218,readily biodegradable
+D-Glucose,000050-99-7,180.16,132.79,0.00128825,0.0000178,1000000,0.01658,readily biodegradable
+"1,3-Benzodioxole, 5-  2-(2-butoxyethoxy)ethoxy methyl -6-propyl-",000051-03-6,338.45,152.74,19498.446,0.000696,0.6384,2469,not biodegradable
+"1,3-Propanediol, 2-bromo-2-nitro-",000052-51-7,199.99,90.85,0.229086765,0.000808,62850,0.9275,not biodegradable
+"1,2,3-Propanetriol",000056-81-5,92.1,19.44,0.022387211,0.0106,1000000,0.1345,readily biodegradable
+"1-Hexadecanaminium, N,N,N-trimethyl-, bromide",000057-09-0,364.46,221.99,1513.561248,5.35E-09,9.651,395.3,not biodegradable
+Hexadecanoic acid,000057-10-3,256.43,116.42,9120108.394,0.00736,0.04073,13230,readily biodegradable
+Urea,000057-13-6,60.06,28.99,0.027542287,27.8,425900,0.5595,not biodegradable
+".alpha.-D-Glucopyranoside, .beta.-D-fructofuranosyl",000057-50-1,342.3,255.38,5.37E-05,4.71E-14,1000000,0.006079,readily biodegradable
+"1,2-Propanediol",000057-55-6,76.1,-33.01,0.165958691,14.8,811100,0.392,readily biodegradable
+"2H-1-Benzopyran-6-ol, 3,4-dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trime",000058-95-7,472.76,202.99,1.82E+12,0.00000537,3.65E-08,49750000,not biodegradable
+"Phenol, 4-chloro-3-methyl-",000059-50-7,142.59,36.15,501.1872336,1.37,699.3,640.7,not biodegradable
+"Glycine, N,N -1,2-ethanediylbis[N-(carboxymethyl)-",000060-00-4,292.25,315.39,0.000138038,5.03E-10,228200,0.007761,not biodegradable
+Benzeneethanol,000060-12-8,122.17,5.81,37.15352291,3.24,21990,18.45,readily biodegradable
+"Glycine, N,N -1,2-ethanediylbis[N-(carboxymethyl)-, tetrasodium salt",000064-02-8,380.17,246.56,6.76E-14,1.99E-10,1000000,5.50E-08,readily biodegradable
+Ethanol,000064-17-5,46.07,-87.84,0.72443596,8120,792100,2.199,readily biodegradable
+Formic acid,000064-18-6,46.03,-24.95,0.34673685,4780,955200,0.7195,readily biodegradable
+Benzoic acid,000065-85-0,122.12,48.85,74.13102413,0.397,2493,15.49,readily biodegradable
+Methanol,000067-56-1,32.04,-101,0.234422882,15800,1000000,1.224,readily biodegradable
+2-Propanol,000067-63-0,60.1,-89.16,1.905460718,6610,402400,3.478,readily biodegradable
+2-Propanone,000067-64-1,58.08,-93.58,0.575439937,33200,219900,9.726,readily biodegradable
+"Methane, trichloro-",000067-66-3,119.38,-78.9,33.11311215,25100,2096,51.21,not biodegradable
+"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, trisodium salt",000068-04-2,258.07,210.96,0.52480746,2.79E-10,120000,0.3885,readily biodegradable
+"Benzoic acid, 2-hydroxy-",000069-72-7,138.12,93.83,173.7800829,0.00425,3808,37.38,readily biodegradable
+1-Propanol,000071-23-8,60.1,-74.95,2.238721139,3090,271500,4.487,readily biodegradable
+"Propanoic acid, 2-hydroxy-, monosodium salt",000072-17-3,112.06,174.03,1.70E-05,0.00000203,1000000,0.001276,readily biodegradable
+Propane,000074-98-6,44.1,-133.89,64.5654229,819000,368.9,111.6,readily biodegradable
+Acetaldehyde,000075-07-0,44.05,-106.38,0.676082975,121000,256800,3.219,readily biodegradable
+"Methane, dichloro-",000075-09-2,84.93,-89.5,21.87761624,57500,10950,12.15,not biodegradable
+Oxirane,000075-21-8,44.05,-109.3,0.891250938,167000,237400,4.662,readily biodegradable
+"Oxirane, methyl-",000075-56-9,58.08,-100.23,2.344228815,70900,129300,7.097,readily biodegradable
+"2-Propanol, 2-methyl-",000075-65-0,74.12,-73.81,5.370317964,6250,217500,5.096,not biodegradable
+"Bicyclo 2.2.1 heptan-2-one, 1,7,7-trimethyl-",000076-22-2,152.24,28.07,1096.478196,1.42,339.1,432.8,readily biodegradable
+"1H-3a,7-Methanoazulen-6-ol, octahydro-3,6,8,8-tetramethyl-,  3R-(3.al",000077-53-2,222.37,75.52,21379.6209,0.0165,21.88,810.4,not biodegradable
+"Oxiranecarboxylic acid, 3-methyl-3-phenyl-, ethyl ester",000077-83-8,206.24,67.05,1000,0.423,111.3,268.1,not biodegradable
+"1,2,3-Propanetricarboxylic acid, 2-hydroxy-",000077-92-9,192.13,169.23,0.021379621,0.000000752,1000000,0.06873,readily biodegradable
+"3-Octanol, 3,7-dimethyl-",000078-69-3,158.29,-11.77,3981.071706,9.51,188.9,319.8,not biodegradable
+"1,6-Octadien-3-ol, 3,7-dimethyl-",000078-70-6,154.25,-11.39,2398.832919,11.1,683.7,143.4,readily biodegradable
+"1-Propanol, 2-methyl-",000078-83-1,74.12,-74.01,5.888436554,1780,97120,8.591,readily biodegradable
+"Ethene, trichloro-",000079-01-6,131.39,-77.15,295.1209227,9660,778.7,125.9,not biodegradable
+"Acetamide, 2-chloro-",000079-07-2,93.51,41.6,0.263026799,1.41,345700,4.248,readily biodegradable
+"Acetic acid, chloro-",000079-11-8,94.5,10.88,2.187761624,32.9,195300,1.894,readily biodegradable
+"Acetic acid, hydroxy-",000079-14-1,76.05,23.33,0.085113804,2.27,1000000,0.135,readily biodegradable
+Ethaneperoxoic acid,000079-21-0,76.05,-42.32,0.085113804,3240,1000000,1.27,not biodegradable
+"Propanoic acid, 2-hydroxy-, (S)-",000079-33-4,90.08,22.66,0.223872114,3.81,1000000,0.2218,readily biodegradable
+"3-Cyclohexene-1-methanol, .alpha.,.alpha.,4-trimethyl-, acetate",000080-26-2,196.29,21.47,21877.61624,6.63,18.97,1122,not biodegradable
+"Benzenepropanal, 4-(1,1-dimethylethyl)-.alpha.-methyl-",000080-54-6,204.31,46.29,22908.67653,0.477,7.859,1281,not biodegradable
+"Bicyclo 3.1.1 hept-2-ene, 2,6,6-trimethyl-",000080-56-8,136.24,-13.62,18620.87137,536,4.071,7130,readily biodegradable
+"2-Propenoic acid, 2-methyl-, methyl ester",000080-62-6,100.12,-79.63,19.05460718,4890,7747,41.96,readily biodegradable
+"Ethanone, 1- 4-(1,1-dimethylethyl)-2,6-dimethyl-3,5-dinitrophenyl -",000081-14-1,294.31,159.51,20417.37945,0.0000778,1.148,8656,not biodegradable
+"Benzene, 1-(1,1-dimethylethyl)-3,5-dimethyl-2,4,6-trinitro-",000081-15-2,297.27,152.88,28183.82931,0.0000847,0.8214,6679,not biodegradable
+"1,2-Benzenedicarboxylic acid, dibutyl ester",000084-74-2,278.35,6.04,40738.02778,0.0303,2.351,1919,readily biodegradable
+"1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3,5-trichloro-",000087-90-1,232.41,171.73,8.7096359,0.00000216,4610,26.58,not biodegradable
+"Phenol, 4-chloro-3,5-dimethyl-",000088-04-0,156.61,51.24,1778.27941,0.24,434.6,795.6,not biodegradable
+"Cyclohexanol, 2-(1,1-dimethylethyl)-, acetate",000088-41-5,198.31,10.93,26302.67992,7.1,7.462,2015,not biodegradable
+"Cyclohexanol, 5-methyl-2-(1-methylethyl)-, acetate, (1.alpha.,2.beta.",000089-48-5,198.31,0.67,24547.08916,12.2,17.13,1180,readily biodegradable
+"Phenol, 5-methyl-2-(1-methylethyl)-",000089-83-8,150.22,38.1,3311.311215,2.23,437.4,826.6,not biodegradable
+"1,1'-Biphenyl -2-ol",000090-43-7,170.21,86.56,1905.460718,0.0941,535.8,632.6,readily biodegradable
+Naphthalene,000091-20-3,128.18,5.01,1479.108388,5.38,142.1,730.6,not biodegradable
+2H-1-Benzopyran-2-one,000091-64-5,146.15,33.34,32.35936569,0.0876,5126,42.5,readily biodegradable
+"1,1 -Biphenyl",000092-52-4,154.21,25.07,5754.399373,0.999,27.35,3019,readily biodegradable
+"Naphthalene, 2-methoxy-",000093-04-9,158.2,38.43,1778.27941,0.356,75.88,795,not biodegradable
+"Ethanone, 1-(2-naphthalenyl)-",000093-08-3,170.21,66.7,707.9457844,0.121,226.1,497.9,not biodegradable
+"Benzenemethanol, .alpha.-methyl-, acetate",000093-92-5,164.21,-0.17,316.227766,14.9,481.1,174.7,readily biodegradable
+"Benzoic acid, 4-hydroxy-, propyl ester",000094-13-3,180.21,71.81,954.992586,0.0409,529.3,510.3,readily biodegradable
+"Benzoic acid, 4-hydroxy-, butyl ester",000094-26-8,194.23,81.45,2951.209227,0.0335,159,1002,readily biodegradable
+"Peroxide, dibenzoyl",000094-36-0,242.23,-2.07,2691.534804,0.0093,28.97,240.1,readily biodegradable
+"1,3-Hexanediol, 2-ethyl-",000094-96-2,146.23,13.17,39.81071706,0.4,3389,9.71,readily biodegradable
+1H-Benzotriazole,000095-14-7,119.13,85.2,14.79108388,0.00328,5957,62.3,not biodegradable
+"2-Butanone, oxime",000096-29-7,87.12,-57.96,48.97788194,157,36630,3.519,inherently biodegradable
+"Phenol, 2-methoxy-4-(2-propenyl)-",000097-53-0,164.21,60.57,537.0317964,1.26,754,253.2,not biodegradable
+"Phenol, 2-methoxy-4-(1-propenyl)-",000097-54-1,164.21,61.93,446.6835922,0.508,165.9,675.1,readily biodegradable
+"Urea, (2,5-dioxo-4-imidazolidinyl)-",000097-59-6,158.12,194.42,0.000724436,0.000000174,1000000,0.132,not biodegradable
+Benzenesulfonic acid,000098-11-3,158.17,88.75,0.067608298,0.00228,689500,1.896,not biodegradable
+"3-Cyclohexene-1-methanol, .alpha.,.alpha.,4-trimethyl-",000098-55-5,154.25,12.36,2137.96209,2.62,371.7,212.8,readily biodegradable
+"2-Cyclohexen-1-one, 2-methyl-5-(1-methylethenyl)-",000099-49-0,150.22,9.86,1174.897555,17.3,367.1,416.6,not biodegradable
+"Benzoic acid, 4-hydroxy-, methyl ester",000099-76-3,152.15,51.47,100,0.114,5981,129,readily biodegradable
+"1,3-Cyclohexadiene, 1-methyl-4-(1-methylethyl)-",000099-86-5,136.24,-31.15,56234.13252,222,5.915,4877,not biodegradable
+"Benzene, 1-methyl-4-(1-methylethyl)-",000099-87-6,134.22,-28.15,10000,152,27.88,3614,readily biodegradable
+"Ethanol, 2-(diethylamino)-",000100-37-8,117.19,-15.6,1.122018454,86.3,953900,2.992,not biodegradable
+Benzenemethanol,000100-51-6,108.14,-5.43,12.02264435,7.14,41050,13.25,readily biodegradable
+Benzaldehyde,000100-52-7,106.13,-21.97,51.2861384,135,6100,32.69,readily biodegradable
+"Urea, N-(4-chlorophenyl)-N'-(3,4-dichlorophenyl)-",000101-20-2,315.59,182.04,79432.82347,0.000000482,0.6479,5326,not biodegradable
+"Benzene, (2,2-dimethoxyethyl)-",000101-48-4,166.22,-0.08,85.11380382,17.7,1439,64.78,not biodegradable
+"Benzene, 1,1'-oxybis-",000101-84-8,170.21,35.35,11220.18454,2.26,15.58,2040,not biodegradable
+"Octanal, 2-(phenylmethylene)-",000101-86-0,216.33,44.38,66069.3448,0.0712,2.75,2301,readily biodegradable
+"Benzeneacetic acid, 2-phenylethyl ester",000102-20-5,240.3,89.4,19054.60718,0.0248,5.921,1686,not biodegradable
+"Ethanol, 2,2 ,2  -nitrilotris-",000102-71-6,149.19,83.32,0.003311311,0.000451,1000000,0.3046,not biodegradable
+"1,2,3-Propanetriol, triacetate",000102-76-1,218.21,-37.29,2.290867653,0.699,21520,8.554,readily biodegradable
+"2-Propen-1-ol, 3-phenyl-, acetate",000103-54-8,176.22,20.45,707.9457844,1.62,212.3,272.9,readily biodegradable
+"Benzenepropanal, .alpha.-methyl-4-(1-methylethyl)-",000103-95-7,190.29,29.1,8128.305162,3030,22.59,722,not biodegradable
+"Benzenemethanol, 4-methoxy-, acetate",000104-21-2,180.21,33.38,144.5439771,0.343,782.9,128.9,readily biodegradable
+"2-Propen-1-ol, 3-phenyl-",000104-54-1,134.18,15.84,69.18309709,0.358,6188,39.11,readily biodegradable
+"2-Propenal, 3-phenyl-",000104-55-2,132.16,0.04,66.0693448,4.49,2150,55.82,readily biodegradable
+"2(3H)-Furanone, 5-heptyldihydro-",000104-67-6,184.28,10.66,1148.153621,0.545,128.3,356.5,readily biodegradable
+Lauryl pyridinium chloride,000104-74-5,283.89,90.1,6.918309709,0.0047,2939,36.82,not biodegradable
+"1-Hexanol, 2-ethyl-",000104-76-7,130.23,-25.5,537.0317964,24.6,1379,105.6,readily biodegradable
+"Butanoic acid, ethyl ester",000105-54-4,116.16,-56.83,70.79457844,1950,2745,76.35,readily biodegradable
+"6-Octen-1-ol, 3,7-dimethyl-, formate",000105-85-1,184.28,-9.76,10232.92992,16.8,19.61,1196,readily biodegradable
+"2,6-Octadien-1-ol, 3,7-dimethyl-, acetate, (E)-",000105-87-3,196.29,-6.1,30199.5172,6.17,18.24,1151,readily biodegradable
+"1,4-Dioxacycloheptadecane-5,17-dione",000105-95-3,270.37,71.08,51286.1384,0.0000585,1.719,2507,readily biodegradable
+Oxacyclohexadecan-2-one,000106-02-5,240.39,26.06,1412537.545,0.00689,0.1484,18250,readily biodegradable
+"1-Octanol, 3,7-dimethyl-",000106-21-8,158.29,-13.66,4365.158322,4.74,175.4,336.6,readily biodegradable
+"6-Octen-1-ol, 3,7-dimethyl-",000106-22-9,156.27,-12.16,3630.780548,2.26,105.5,474.7,readily biodegradable
+"6-Octenal, 3,7-dimethyl-",000106-23-0,154.25,-28.33,3388.441561,33.9,38.94,652.1,readily biodegradable
+"2,6-Octadien-1-ol, 3,7-dimethyl-, (E)-",000106-24-1,154.25,-10.78,2951.209227,2.12,255.8,271,inherently biodegradable
+"2,6-Octadien-1-ol, 3,7-dimethyl-, (Z)-",000106-25-2,154.25,-10.78,2951.209227,2.12,255.8,271,readily biodegradable
+"Heptanoic acid, ethyl ester",000106-30-9,158.24,-20.94,2089.296131,91.5,101.9,496.5,readily biodegradable
+"Phenol, 4-methyl-",000106-44-5,108.14,15.69,114.8153621,16.6,9246,146.2,readily biodegradable
+"Benzene, 1,4-dichloro-",000106-46-7,147,-14.33,1905.460718,88,90.24,966.4,not biodegradable
+"Ethane, 1,2-dichloro-",000107-06-2,98.96,-76.77,67.60829754,10000,6414,19.23,not biodegradable
+"1,2-Ethanediol",000107-21-1,62.07,-31.62,0.063095734,8.12,1000000,0.2239,readily biodegradable
+Ethanedial,000107-22-2,58.04,-66.69,0.021877616,38400,1000000,0.3535,readily biodegradable
+"2,4-Pentanediol, 2-methyl-",000107-41-5,118.18,-7.37,3.801893963,7.77,32560,2.649,inherently biodegradable
+"Octanal, 7-hydroxy-3,7-dimethyl-",000107-75-5,172.27,23.36,128.8249552,0.773,3042,28.28,not biodegradable
+"1,3-Butanediol",000107-88-0,90.12,-21.13,0.512861384,4.27,220400,0.8746,readily biodegradable
+Acetic acid ethenyl ester,000108-05-4,86.09,-83.5,5.370317964,15800,30250,18.34,readily biodegradable
+"Acetic acid, 1-methylethyl ester",000108-21-4,102.13,-81.08,19.05460718,8110,9268,36.94,readily biodegradable
+"1,3-Dioxolan-2-one, 4-methyl-",000108-32-7,102.09,19.56,1.202264435,5.55,258200,2.945,readily biodegradable
+"Benzene, chloro-",000108-90-7,112.56,-45.78,436.5158322,1240,400.5,291.4,not biodegradable
+Phenol,000108-95-2,94.11,-2.27,32.35936569,43,26160,79.34,readily biodegradable
+Pentane,000109-66-0,72.15,-106.92,630.9573445,68400,49.76,874.5,readily biodegradable
+"Ethanol, 2-methoxy-",000109-86-4,76.1,-56.58,0.123026877,748,1000000,0.9935,readily biodegradable
+Butanedioic acid,000110-15-6,118.09,83.27,0.177827941,0.0144,807900,0.6751,readily biodegradable
+2-Butenedioic acid (E)-,000110-17-8,116.07,84.12,1.122018454,1.26E-09,104200,2.571,readily biodegradable
+"Tetradecanoic acid, 1-methylethyl ester",000110-27-0,270.46,44.42,14791083.88,0.108,0.01354,66900,readily biodegradable
+"2,4-Hexadienoic acid, (E,E)-",000110-44-1,112.13,24.62,41.68693835,1.32,19440,7.787,readily biodegradable
+Morpholine,000110-91-8,87.12,-15.24,0.27542287,1460,1000000,2.066,not biodegradable
+"2-Propanol, 1,1 -oxybis-",000110-98-5,134.18,6.09,0.229086765,0.973,310700,0.4546,not biodegradable
+Pentanedial,000111-30-8,100.12,-29.86,0.660693448,251,167200,2.328,inherently biodegradable
+"Ethanol, 2-butoxy-",000111-76-2,118.18,-20.31,3.715352291,63.3,64470,7.624,readily biodegradable
+"Ethanol, 2-(2-methoxyethoxy)-",000111-77-3,120.15,-14.6,0.066069345,15,1000000,0.4784,readily biodegradable
+"Ethanol, 2-(2-ethoxyethoxy)-",000111-90-0,134.18,-3.05,0.204173794,12.5,828000,1.081,readily biodegradable
+"1-Dodecanaminium, N,N,N-trimethyl-, chloride",000112-00-5,263.9,182.19,16.59586907,0.00000124,1795,32.57,not biodegradable
+"1-Hexadecanaminium, N,N,N-trimethyl-, chloride",000112-02-7,320.01,212.55,1513.561248,3.73E-08,16.33,421.3,not biodegradable
+"Ethanol, 2,2 -[1,2-ethanediylbis(oxy)]bis-",000112-27-6,150.18,47.17,0.017782794,0.0265,1000000,0.08975,readily biodegradable
+Decanal,000112-31-2,156.27,-8.09,5754.399373,31.4,43.52,596.5,readily biodegradable
+"Ethanol, 2-(2-butoxyethoxy)-",000112-34-5,162.23,19.26,1.9498446,1.46,71920,4.387,readily biodegradable
+10-Undecenoic acid,000112-38-9,184.28,71.46,23442.28815,0.935,65.84,195.3,readily biodegradable
+10-Undecenal,000112-45-8,168.28,1.73,13182.56739,8.71,19.08,943.4,readily biodegradable
+1-Dodecanol,000112-53-8,186.34,29.19,58884.36554,0.242,6.898,2245,readily biodegradable
+Dodecanal,000112-54-9,184.32,13.84,56234.13252,2.06,4.649,2105,readily biodegradable
+9-Octadecenoic acid (Z)-,000112-80-1,282.47,132.66,53703179.64,0.00684,0.01151,24080,readily biodegradable
+"9-Octadecen-1-amine, (Z)-",000112-90-3,267.5,92.87,31622776.6,0.0000898,0.07639,112700,not biodegradable
+"Phenol, 2-(1-methylethoxy)-, methylcarbamate",000114-26-1,209.25,68.65,79.43282347,0.113,1974,53.17,not biodegradable
+"1,6-Octadien-3-ol, 3,7-dimethyl-, acetate",000115-95-7,196.29,-2.09,24547.08916,17.5,20.12,1080,not biodegradable
+"Benzoic acid, 3,4,5-trimethoxy-",000118-41-2,212.2,118.68,24.54708916,0.00092,2482,10.87,not biodegradable
+"2,4-Imidazolidinedione, 1,3-dichloro-5,5-dimethyl-",000118-52-5,197.02,123.26,0.114815362,0.00321,14210,2.341,not biodegradable
+"Benzoic acid, 2-hydroxy-, phenylmethyl ester",000118-58-1,228.25,115.48,20417.37945,0.0024,24.59,2572,not biodegradable
+"4H-Pyran-4-one, 3-hydroxy-2-methyl-",000118-71-8,126.11,60.2,0.645654229,0.00571,79760,4.661,readily biodegradable
+"Benzoic acid, 2-hydroxy-, methyl ester",000119-36-8,152.15,51.47,398.1071706,7.12,1875,273.4,readily biodegradable
+"Ethanone, 2-hydroxy-1,2-diphenyl-",000119-53-9,212.25,106.61,69.18309709,0.000077,1856,77.16,readily biodegradable
+"Methanone, diphenyl-",000119-61-9,182.22,63.55,1412.537545,0.121,103.3,758,not biodegradable
+"Dodecanamide, N,N-bis(2-hydroxyethyl)-",000120-40-1,287.45,161.57,776.2471166,0.000000897,49.91,45.02,readily biodegradable
+"Benzoic acid, 4-hydroxy-, ethyl ester",000120-47-8,166.18,61.81,309.0295433,0.0124,1894,246.9,readily biodegradable
+"Benzoic acid, phenylmethyl ester",000120-51-4,212.25,70.75,3467.368505,0.0741,15.39,1136,readily biodegradable
+"Benzaldehyde, 4-hydroxy-3-methoxy-",000121-33-5,152.15,71.55,11.22018454,0.0595,6875,38.71,readily biodegradable
+"Ethanone, 1-(4-methylphenyl)-",000122-00-9,134.18,7.85,165.9586907,11.3,1424,191.5,readily biodegradable
+"Ammonium, benzyldimethyloctadecyl-, chloride",000122-19-0,424.16,262.7,741310.2413,1.59E-11,0.02082,12160,not biodegradable
+"2-Propanol, 1,1 ,1  -nitrilotris-",000122-20-3,191.27,78.63,0.060255959,0.00248,1000000,0.2302,not biodegradable
+Benzenepropanol,000122-97-4,136.2,16.79,114.8153621,1.13,6969,35.77,readily biodegradable
+"Ethanol, 2-phenoxy-",000122-99-6,138.17,22.47,12.58925412,0.598,28180,16.26,readily biodegradable
+"Pyridinium, 1-hexadecyl-, chloride",000123-03-5,340,126.19,630.9573445,0.00046,246.6,111.5,not biodegradable
+"Benzaldehyde, 4-methoxy-",000123-11-5,136.15,12.84,61.65950019,4.04,2728,53.12,readily biodegradable
+"Hexanoic acid, ethyl ester",000123-66-0,144.22,-32.64,676.0829754,240,308.7,266,readily biodegradable
+"Hexanoic acid, 2-propenyl ester",000123-68-2,156.23,-22.26,1513.561248,96.1,136.1,415.4,readily biodegradable
+"Hexanedioic acid, dioctyl ester",000123-79-5,370.58,35.32,181970085.9,0.00162,0.0004083,230600,readily biodegradable
+"Acetic acid, butyl ester",000123-86-4,116.16,-56.83,70.79457844,1590,3128,69.84,readily biodegradable
+"1-Butanol, 3-methyl-, acetate",000123-92-2,130.19,-56.05,181.9700859,756,1100,127.1,readily biodegradable
+Hexanedioic acid,000124-04-9,146.14,101.99,1.698243652,0.00171,167300,1.585,readily biodegradable
+Octanoic acid,000124-07-2,144.22,48.39,1071.519305,6.51,495.9,69.63,readily biodegradable
+Carbon dioxide,000124-38-9,44.01,-105.19,6.760829754,2370000,25720,14.29,readily biodegradable
+"Bicyclo 2.2.1 heptan-2-ol, 1,7,7-trimethyl-, exo-",000124-76-5,154.25,26.56,707.9457844,0.0572,1186,100.4,not biodegradable
+"Bicyclo 2.2.1 heptan-2-ol, 1,7,7-trimethyl-, acetate, exo-",000125-12-2,196.29,34.11,7244.359601,14.3,9.721,1730,not biodegradable
+"1,6-Octadien-3-ol, 3,7-dimethyl-, (R)-",000126-91-0,154.25,-11.39,2398.832919,11.1,683.7,143.4,not biodegradable
+Sodium 2-ethylhexyl sulfate,000126-92-1,232.27,229,0.446683592,3.01E-09,58430,7.815,not biodegradable
+"Acetic acid, sodium salt",000127-09-3,82.03,148.53,0.000190546,0.000000716,1000000,0.01253,readily biodegradable
+"3-Buten-2-one, 4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-, (E)-",000127-41-3,192.3,43.06,19498.446,3.62,24.67,1779,not biodegradable
+"3-Buten-2-one, 3-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-",000127-51-5,206.33,45.26,69183.09709,1.3,2.98,6278,not biodegradable
+"1,1'-Oxybis[2,3,3,3-tetrachloropropane]",000127-90-2,377.74,82.01,125892.5412,0.234,0.184,4523,not biodegradable
+"Bicyclo 3.1.1 heptane, 6,6-dimethyl-2-methylene-",000127-91-3,136.24,-15.3,22387.21139,334,7.061,4074,not biodegradable
+"Phenol, 2,6-bis(1,1-dimethylethyl)-4-methyl-",000128-37-0,220.36,83.01,107151.9305,0.236,5.748,8183,not biodegradable
+"Phenol, 2,4-dichloro-3,5-dimethyl-",000133-53-9,191.06,67.93,7943.282347,0.146,86.84,1775,not biodegradable
+"Benzoic acid, 2-amino-, methyl ester",000134-20-3,151.17,55.76,181.9700859,2.63,1860,75.47,not biodegradable
+"Benzamide, N,N-diethyl-3-methyl-",000134-62-3,191.28,85.69,181.9700859,0.442,666,72.12,not biodegradable
+"Glycine, N-(carboxymethyl)-N-(2-hydroxyethyl)-, disodium salt",000135-37-5,221.12,207.47,5.37E-09,2.19E-10,1000000,0.00001272,readily biodegradable
+"Glycine, N-methyl-N-(1-oxododecyl)-, sodium salt",000137-16-6,293.39,258.81,2.344228815,2.93E-11,6490,2.056,readily biodegradable
+"Propanoic acid, sodium salt",000137-40-6,96.06,149.59,0.000588844,0.000048,1000000,0.02339,readily biodegradable
+"Cyclohexene, 1-methyl-4-(1-methylethenyl)-",000138-86-3,136.24,-40.76,67608.29754,193,4.581,6324,readily biodegradable
+"Benzenemethanaminium, N-dodecyl-N,N-dimethyl-, chloride",000139-07-1,340,230.18,851.1380382,2.51E-09,22.47,287.5,not biodegradable
+"Ammonium, benzyldimethyltetradecyl-, chloride",000139-08-2,368.05,241.02,8128.305162,4.70E-10,2.203,1002,not biodegradable
+Edetate disodium,000139-33-3,336.21,335.19,2.00E-12,1.01E-14,1000000,3.58E-07,readily biodegradable
+"Glycine, N-[2-[bis(carboxymethyl)amino]ethyl]-N-(2-hydroxyethyl)-, tr",000139-89-9,344.21,254.13,4.37E-12,1.39E-13,1000000,2.14E-07,readily biodegradable
+"Diethylenetriaminepentaacetic acid, pentasodium salt",000140-01-2,503.26,286.24,5.62E-17,3.80E-13,1000000,9.36E-10,readily biodegradable
+"Acetic acid, phenylmethyl ester",000140-11-4,150.18,-0.5,120.2264435,25,1605,87.83,readily biodegradable
+"Ethanol, 2-amino-",000141-43-5,61.08,-27.55,0.024547089,54.5,1000000,0.5852,readily biodegradable
+Acetic acid ethyl ester,000141-78-6,88.11,-82.08,7.244359601,13100,29930,18.34,readily biodegradable
+"Butanoic acid, 3-oxo-, ethyl ester",000141-97-9,130.14,-19.23,0.630957344,124,56170,15.61,readily biodegradable
+"Heptanoic acid, 2-propenyl ester",000142-19-8,170.25,-10.81,4677.351413,30.2,44.64,775.3,readily biodegradable
+Sodium octyl sulfate,000142-31-4,232.27,232.27,0.537031796,3.36E-09,50570,8.654,not biodegradable
+"2-Propenoic acid, 2-methyl-, dodecyl ester",000142-90-5,254.42,33.9,4786300.923,0.189,0.05478,31160,readily biodegradable
+Dodecanoic acid,000143-07-7,200.32,81.92,100000,0.188,12.76,501.3,readily biodegradable
+"9-Octadecenoic acid (Z)-, potassium salt",000143-18-0,320.56,250.71,8317.637711,1.04E-10,4.187,210.9,readily biodegradable
+"9-Octadecenoic acid (Z)-, sodium salt",000143-19-1,304.45,250.71,8317.637711,1.68E-10,5.209,210.9,readily biodegradable
+"9-Octadecen-1-ol, (Z)-",000143-28-2,268.49,85.36,31622776.6,0.00199,0.02367,45930,readily biodegradable
+Sodium bicarbonate,000144-55-8,84.01,195.4,9.77E-05,0.000000497,1000000,0.008663,readily biodegradable
+Ethanedioic acid,000144-62-7,90.04,62.97,0.018197009,0.746,1000000,0.1561,inherently biodegradable
+Thiabendazole,000148-79-8,201.25,181.09,100,0.000000083,335.2,489.5,not biodegradable
+"Methanesulfinic acid, hydroxy-, monosodium salt",000149-44-0,118.08,205.17,6.76E-07,9.41E-10,1000000,0.001261,readily biodegradable
+"Hexanoic acid, 2-ethyl-",000149-57-5,144.22,37.72,912.0108394,8.35,1111,41.3,readily biodegradable
+Edetate trisodium,000150-38-9,358.19,335.12,7.08E-14,1.04E-14,1000000,5.64E-08,readily biodegradable
+"6-Octen-1-ol, 3,7-dimethyl-, acetate",000150-84-5,198.31,-7.4,36307.80548,7.01,5.686,2409,readily biodegradable
+"Dodecyl sulfate, sodium salt",000151-21-3,288.38,253.95,48.97788194,2.40E-10,616.8,93.66,readily biodegradable
+-,000298-14-6,100.12,195.4,9.77E-05,0.000000497,1000000,0.008663,readily biodegradable
+Decanoic acid,000334-48-5,172.27,62.7,10471.28548,1.17,47.89,261.8,readily biodegradable
+"1H-3a,7-Methanoazulene, 2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-,",000469-61-4,204.36,47.96,549540.8739,0.0184,0.1504,95800,not biodegradable
+"2-Oxabicyclo 2.2.2 octane, 1,3,3-trimethyl-",000470-82-6,154.25,8.14,1348.962883,208,332.1,223.9,not biodegradable
+CALCIUM CARBONATE,000471-34-1,100.09,122.45,0.007585776,3.63E-13,1000000,0.3336,not biodegradable
+"1,4-Methanoazulene, decahydro-4,8,8-trimethyl-9-methylene-,  1S-(1.al",000475-20-7,204.36,46.04,301995.172,2.5,0.2525,56980,not biodegradable
+Sodium carbonate,000497-19-8,105.99,139.88,6.46E-07,1.32E-14,1000000,0.0005393,readily biodegradable
+"2,4,6-Cycloheptatrien-1-one, 2-hydroxy-4-(1-methylethyl)-",000499-44-5,164.21,71.22,67.60829754,0.0052,1592,56.84,not biodegradable
+"1-Hexadecen-3-ol, 3,7,11,15-tetramethyl-",000505-32-8,296.54,70.18,169824365.2,0.00188,0.003893,116400,not biodegradable
+"2H-Pyran-2,4(3H)-dione, 3-acetyl-6-methyl-",000520-45-6,168.15,85.17,6.025595861,0.189,13590,48.1,readily biodegradable
+D-Gluconic acid,000526-95-4,196.16,161.68,0.013489629,0.000000109,1000000,0.01988,readily biodegradable
+"D-Gluconic acid, monosodium salt",000527-07-1,218.14,265.41,1.02E-06,9.63E-16,1000000,0.0001046,readily biodegradable
+"Benzoic acid, sodium salt",000532-32-1,144.11,192.35,0.005370318,0.000000489,1000000,0.07945,readily biodegradable
+SODIUM SESQUICARBONATE,000533-96-0,105.99,139.88,6.46E-07,1.32E-14,1000000,0.0005393,readily biodegradable
+"1-Propene, 1,3-dichloro-",000542-75-6,110.97,-72.77,194.98446,2970,1994,57.73,not biodegradable
+"9-Octadecenoic acid (Z)-, ammonium salt",000544-60-5,299.5,214.9,70794.57844,0.00000101,0.8852,2391,readily biodegradable
+Tetradecanoic acid,000544-63-8,228.38,99.73,954992.586,0.0346,0.4668,3430,readily biodegradable
+"10-Undecenoic acid, zinc salt",000557-08-4,431.94,198.46,19498446,2.82E-08,0.001152,31540,not biodegradable
+"3-Cyclohexen-1-ol, 4-methyl-1-(1-methylethyl)-",000562-74-3,154.25,14.86,2137.96209,5.7,386.6,207.4,not biodegradable
+POTASSIUM CARBONATE,000584-08-7,138.21,139.88,6.46E-07,3.25E-15,1000000,0.0005393,readily biodegradable
+Allethrin,000584-79-2,302.42,126.18,331131.1215,0.0047,0.9838,5001,not biodegradable
+"Cyclohexene, 1-methyl-4-(1-methylethylidene)-",000586-62-9,136.24,-29.51,75857.7575,133,3.838,7570,readily biodegradable
+"2,4-Hexadienoic acid, potassium salt",000590-00-1,150.22,173.92,0.006456542,0.00000237,1000000,0.08798,readily biodegradable
+"Carbamic acid, methyl ester",000598-55-0,75.07,-47.05,0.309029543,73,488200,3.003,not biodegradable
+"Butanedioic acid, hydroxy-, (.+-.)-",000617-48-1,134.09,112.71,0.020892961,0.00039,1000000,0.1115,readily biodegradable
+-,000624-52-2,148.2,31.06,9.77237221,0.126,11010,3.624,readily biodegradable
+"Dodecanoic acid, sodium salt",000629-25-4,222.31,216.51,15.48816619,2.04E-08,3244,6.516,readily biodegradable
+"Benzene, 1,1 ,1  ,1   -(1,2-ethenediylidene)tetrakis-",000632-51-9,332.45,168.44,2818382.931,0.00000259,0.02461,395900,not biodegradable
+"2(3H)-Furanone, 5-hexyldihydro-",000706-14-9,170.25,20.2,371.5352291,0.683,291.6,231.2,readily biodegradable
+"2-Propanol, 1-phenoxy-",000770-35-4,152.19,20.99,33.11311215,0.693,10130,28.85,readily biodegradable
+"1,3-Dioxan-4-ol, 2,6-dimethyl-, acetate",000828-00-2,174.2,7.53,3.090295433,18.9,22580,8.899,readily biodegradable
+"3-Hexen-1-ol, (Z)-",000928-96-1,100.16,-38.47,40.73802778,125,16000,25.36,readily biodegradable
+Dichlofluanid,001085-98-9,333.22,140.58,524.8074602,0.000396,5.408,1169,not biodegradable
+"1,2-OCTANEDIOL",001117-86-8,146.23,23.77,46.77351413,0.217,2933,10.62,readily biodegradable
+"2-Buten-1-ol, 3-methyl-, acetate",001191-16-8,128.17,-53.9,151.3561248,556,1289,116.2,readily biodegradable
+"1,3-Benzodioxole-5-propanal, .alpha.-methyl-",001205-17-0,192.22,76.59,323.5936569,0.107,342.6,157,not biodegradable
+"Cyclopenta g -2-benzopyran, 1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamet",001222-05-5,258.41,102.64,1819700.859,0.0683,0.1943,12530,not biodegradable
+"Benzenesulfonic acid, dimethyl-, sodium salt",001300-72-7,208.21,233.42,0.013803843,1.52E-09,1000000,0.7876,not biodegradable
+Boron oxide (B2O3),001303-86-2,61.83,267.04,0.602559586,9.82E-15,98150,1.403,readily biodegradable
+Calcium hydroxide,001305-62-0,74.09,281.31,0.134896288,1.96E-16,741700,0.1756,not biodegradable
+Calcium oxide (CaO),001305-78-8,56.08,242.69,0.26915348,1.35E-09,420900,0.3198,readily biodegradable
+Potassium hydroxide,001310-58-3,56.11,320.19,0.000131826,6.12E-19,1000000,0.0004287,readily biodegradable
+Sodium hydroxide,001310-73-2,40,320.19,0.000131826,6.53E-19,1000000,0.0004287,readily biodegradable
+Zinc oxide (ZnO),001314-13-2,81.39,251.64,33.88441561,3.52E-10,6431,21.26,not biodegradable
+Zinc sulfide,001314-98-3,97.45,192.01,33.88441561,0.000000174,5883,21.26,not biodegradable
+Copper (2) oxide,001317-38-0,79.55,242.69,26.91534804,1.35E-09,7891,17.41,not biodegradable
+"Phenol, methyl-",001319-77-3,108.14,15.69,114.8153621,33.4,9066,148.1,readily biodegradable
+"Benzene, dimethyl-",001330-20-7,106.17,-40.69,1230.268771,908,224.1,552.3,readily biodegradable
+SODIUM FLUORIDE,001333-83-1,41.99,296.43,0.169824365,7.24E-24,595000,0.2144,readily biodegradable
+"Ionone, methyl-",001335-46-2,206.33,59.38,69183.09709,0.817,2.98,6278,not biodegradable
+ISOCYCLOCITRAL,001335-66-6,152.24,-2.5,1862.087137,23.3,119.3,319.6,readily biodegradable
+Ammonium hydroxide,001336-21-6,35.05,284.38,0.002187762,5.19E-16,1000000,0.004909,readily biodegradable
+Copper naphthenate,001338-02-9,274.87,92.71,14791.08388,0.017,4.722,1005,not biodegradable
+"(Z)-Sorbitan, Mono-9-octadecenoate",001338-43-8,428.61,223.05,776247.1166,1.38E-12,0.01914,1599,inherently biodegradable
+AMMONIUM DIFLUORIDE,001341-49-7,55.03,260.65,4.27E-05,2.19E-11,1000000,0.000161,readily biodegradable
+Tannins,001401-55-4,636.48,349.84,0.645654229,1.18E-26,512.4,18.92,readily biodegradable
+"Cyclohexanol, 5-methyl-2-(1-methylethyl)-",001490-04-6,156.27,-5.9,2398.832919,1.02,434.5,189.7,not biodegradable
+"Ethanone, 1-(5,6,7,8-tetrahydro-3,5,5,6,8,8-hexamethyl-2-naphthalenyl",001506-02-1,258.41,106.87,2238721.139,0.0252,0.2879,18770,not biodegradable
+"2-Propanol, 1-propoxy-",001569-01-3,118.18,-33.54,3.090295433,180,125100,4.944,readily biodegradable
+"1-Dodecanamine, N,N-dimethyl-, N-oxide",001643-20-5,229.41,167.95,46773.51413,0.000021,3.132,2772,readily biodegradable
+"BENZENEMETHANOL, 2,4-DICHLORO-",001777-82-8,177.03,54.13,229.0867653,0.0827,1762,65.92,not biodegradable
+"1,3-Benzenedicarbonitrile, 2,4,5,6-tetrachloro-",001897-45-6,265.91,131.51,4570.881896,0.0000629,26.01,3474,not biodegradable
+"1H-Pyrazole-3-carboxylic acid, 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-4-",001934-21-0,556.34,349.84,6.76E-11,9.91E-20,1000000,0.00001344,not biodegradable
+"Benzoic acid, 2-hydroxy-, pentyl ester",002050-08-0,208.26,90.74,37153.52291,0.112,18.94,3582,readily biodegradable
+"Pentanoic acid, pentyl ester",002173-56-0,172.27,-9.5,6456.54229,32.2,33.39,926.7,readily biodegradable
+"Sulfuric acid, monododecyl ester, ammonium salt",002235-54-3,266.4,136.83,263.0267992,0.0000042,163.7,266.1,not biodegradable
+-,002346-99-8,320.77,86.11,14791.08388,0.0003,2.534,1012,not biodegradable
+-,002372-82-9,299.55,137.54,28840.31503,0.000199,19.42,1919,not biodegradable
+"4,7-Methano-1H-inden-5-ol, 3a,4,5,6,7,7a-hexahydro-, acetate",002500-83-6,192.26,34.66,707.9457844,2.84,177.4,272.9,readily biodegradable
+"1,2-Benzisothiazol-3(2H)-one",002634-33-5,151.18,121.6,4.365158322,0.00343,21430,11.22,not biodegradable
+"3(2H)-ISOTHIAZOLONE,2-METHYL-",002682-20-4,115.15,47.48,0.147910839,4.13,536700,2.757,not biodegradable
+"2-Naphthalenesulfonic acid, 6-hydroxy-5-[(4-sulfophenyl)azo]-, disodi",002783-94-0,452.37,349.84,0.066069345,1.90E-20,20490,7.418,not biodegradable
+"Acetic acid, hydroxy-, monosodium salt",002836-32-0,98.03,174.37,6.46E-06,0.000000061,1000000,0.0007474,readily biodegradable
+"1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3-dichloro-, sodiumsalt",002893-78-9,219.95,276,0.87096359,1.94E-12,38420,7.438,not biodegradable
+Chlorpyrifos,002921-88-2,350.59,82.93,128824.9552,0.00273,0.357,7901,not biodegradable
+-,003228-02-2,150.22,38.1,3311.311215,2.33,286,1094,not biodegradable
+"NITRIC ACID, COPPER (2+) SALT",003251-23-8,187.56,253.88,0.245470892,6.33E-11,168100,0.2952,not biodegradable
+"Phenol, 5-chloro-2-(2,4-dichlorophenoxy)-",003380-34-5,289.55,136.79,45708.81896,0.00062,4.621,8417,not biodegradable
+"Phosphorothioic acid, O,O'-(thiodi-4,1-phenylene) O,O,O',O'-tetrameth",003383-96-8,466.46,85.97,1479108.388,0.0000105,0.009531,10920,not biodegradable
+1-Octen-3-ol,003391-86-4,128.22,-28.78,398.1071706,31.7,1836,89.49,readily biodegradable
+"Cyclohexanol, 3-(5,5,6-trimethylbicyclo[2.2.1]hept-2-yl)-",003407-42-9,236.4,87.6,316227.766,0.00162,1.817,3596,not biodegradable
+-,003586-55-8,122.12,25.78,0.001862087,0.652,1000000,0.02576,readily biodegradable
+"2-Pyridinethiol, 1-oxide, sodium salt",003811-73-2,149.14,221.25,0.000104713,9.90E-09,1000000,0.07944,not biodegradable
+"Benzenemethanaminium, N-ethyl-N-[4-[[4-[ethyl[(3-sulfophenyl)methyl]a",003844-45-9,793.86,349.84,1.15E-05,3.97E-40,1374,0.01341,not biodegradable
+"3,5,7-Triaza-1-azoniatricyclo[3.3.1.13,7]decane, 1-(3-chloro-2-propen",004080-31-3,251.16,194.63,1.20E-06,0.000000558,289000,3.86,not biodegradable
+"1-Propanol, 2-phenoxy-",004169-04-4,152.19,22.65,33.11311215,0.638,12140,25.72,readily biodegradable
+"Benzoic acid, 4-hydroxy-, 1-methylethyl ester",004191-73-5,180.21,63.09,812.8305162,0.155,689.7,432.5,readily biodegradable
+"1-Propanaminium, N-(carboxymethyl)-N,N-dimethyl-3- (1-oxododecyl)amin",004292-10-8,343.53,282.96,4.897788194,6.41E-13,1755,2.659,readily biodegradable
+"2H-Pyran-2,4(3H)-dione, 3-acetyl-6-methyl-, ion(1-), sodium",004418-26-2,190.13,240.47,0.478630092,5.12E-10,91340,11.85,readily biodegradable
+"2,6,10-Dodecatrien-1-ol, 3,7,11-trimethyl-",004602-84-0,222.37,3.24,588843.6554,0.00525,1.287,5072,not biodegradable
+"1,3,5-Triazine-1,3,5(2H,4H,6H)-triethanol",004719-04-4,219.29,155.26,2.14E-05,0.000000551,1000000,0.002104,readily biodegradable
+"Phosphonic acid, octyl-",004724-48-5,194.21,76.21,275.4228703,0.000113,386,238.8,not biodegradable
+"4H-Pyran-4-one, 2-ethyl-3-hydroxy-",004940-11-8,140.14,70.54,1.995262315,0.0193,24230,9.271,readily biodegradable
+"Glycine, N,N-bis(carboxymethyl)-, trisodium salt",005064-31-3,257.09,199.47,8.32E-11,0.000000108,1000000,0.000003272,readily biodegradable
+"2-Propanol, 1-butoxy-",005131-66-8,132.2,-21.73,9.54992586,53,42100,9.228,readily biodegradable
+Sulfamic acid,005329-14-6,97.09,260.56,4.57E-05,2.01E-13,97940,13.86,not biodegradable
+"2,6-Octadienal, 3,7-dimethyl-",005392-40-5,152.24,-26.74,2818.382931,12.2,84.71,401.9,readily biodegradable
+"Imidazo 4,5-d imidazole-2,5(1H,3H)-dione, tetrahydro-1,3,4,6-tetrakis",005395-50-6,262.22,219.08,1.29E-08,7.60E-12,1000000,0.00003494,readily biodegradable
+"4,7-Methano-1H-inden-6-ol, 3a,4,5,6,7,7a-hexahydro-, acetate",005413-60-5,192.26,34.66,707.9457844,2.84,177.4,272.9,readily biodegradable
+"Benzenepropanal, 4-methoxy-.alpha.-methyl-",005462-06-6,178.23,34.71,338.8441561,1.38,386.9,141.6,not biodegradable
+"2-Propenoic acid, 3-(4-methoxyphenyl)-, 2-ethylhexyl ester",005466-77-3,290.41,99.87,630957.3445,0.00185,0.1548,13290,readily biodegradable
+"1-Octanaminium, N,N-dimethyl-N-octyl-, chloride",005538-94-3,305.98,205.21,489.7788194,8.95E-08,56.72,211.8,not biodegradable
+"9-Undecenoic acid, methyl ester",005760-50-9,198.31,11.61,38018.93963,3.07,5.496,2471,readily biodegradable
+Endrocide (Endox) (Coumatetralyl),005836-29-3,292.34,189.63,16982.43652,2.70E-09,3.347,613.5,not biodegradable
+"1,2,3-PROPANETRICARBOXYLIC ACID, 2-HYDROXY-, MONOHYDRATE",005949-29-1,192.13,169.23,0.021379621,0.000000752,1000000,0.06873,readily biodegradable
+"Glycine, N,N -1,2-ethanediylbis[N-(carboxymethyl)-, tetrapotassium sa",005964-35-2,444.61,246.56,6.76E-14,1.99E-10,1000000,5.50E-08,readily biodegradable
+"Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (R)-",005989-27-5,136.24,-40.76,67608.29754,193,4.581,6324,not biodegradable
+"Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (S)-",005989-54-8,136.24,-40.76,67608.29754,193,4.581,6324,not biodegradable
+-,006004-24-6,305.55,114.27,89125.09381,0.000539,0.6742,6910,readily biodegradable
+"Benzoic acid, 2-hydroxy-, hexyl ester",006259-76-3,222.29,99.68,114815.3621,0.00326,6.084,6686,readily biodegradable
+DISODIUM DIHYDRATE EDTA,006381-92-6,336.21,335.19,2.00E-11,1.01E-14,1000000,0.000001278,readily biodegradable
+"2,4-Imidazolidinedione, 1,3-bis(hydroxymethyl)-5,5-dimethyl-",006440-58-0,188.18,171.27,0.004265795,0.000000142,261200,0.05151,readily biodegradable
+SODIUM METASILICATE,006834-92-0,122.06,311.39,2.24E-06,6.68E-15,1000000,0.00001247,not biodegradable
+"Butanedioic acid, hydroxy-",006915-15-7,134.09,112.71,0.020892961,0.00039,1000000,0.1115,readily biodegradable
+"1-Decanaminium, N-decyl-N,N-dimethyl-, chloride",007173-51-5,362.09,228.81,45708.81896,3.10E-09,0.5505,2603,not biodegradable
+"1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-",007212-44-4,222.37,20.98,478630.0923,0.0789,1.532,4523,not biodegradable
+"Pyrophosphoric acid, tetrapotassium salt",007320-34-5,330.34,90.27,3.55E-11,0.00000274,1000000,0.00001771,not biodegradable
+-,007377-03-9,159.23,110.43,45.70881896,0.000333,2635,69.1,readily biodegradable
+ALUMINUM,007429-90-5,30.01,198,2.13796209,0.000000116,59400,1.932,readily biodegradable
+Silver,007440-22-4,107.87,188.6,1.698243652,0,70480,1.582,not biodegradable
+CARBON,007440-44-0,16.04,-152.93,6.025595861,70700000,2610,8.823,readily biodegradable
+Copper,007440-50-8,63.55,188.6,0.26915348,0,420800,0.3198,readily biodegradable
+ZINC,007440-66-6,67.41,192.01,0.338844156,1.07E-20,343700,0.3906,readily biodegradable
+Sulfur dioxide,007446-09-5,64.06,212.8,0.006309573,347000,1000000,0.7407,readily biodegradable
+Aluminum chloride (AlCl3),007446-70-0,133.34,236.75,18.19700859,2.58E-09,7491,12.39,not biodegradable
+Potassium chloide,007447-40-7,74.55,304.03,0.34673685,2.19E-14,330600,0.3984,readily biodegradable
+"PHOSPHORIC ACID, MONOSODIUM SALT",007558-80-7,119.98,90.27,0.000109648,1.62E-08,1000000,0.06887,not biodegradable
+#NAME?,007585-39-9,1137.02,349.84,1.86E-11,0,1000000,3.41E-07,readily biodegradable
+TRISODIUM PHOSPHATE,007601-54-9,163.94,90.27,2.29E-08,0.00000392,1000000,0.0006346,not biodegradable
+Silica,007631-86-9,60.08,158.94,3.388441561,0.00000714,48440,2.881,readily biodegradable
+SULFUROUS ACID MONOSODIUM SALT,007631-90-5,104.06,349.84,3.09E-08,3.76E-22,1000000,0.0008561,not biodegradable
+Sodium nitrate,007631-99-4,84.99,321.02,0.16218101,2.13E-15,605500,0.206,readily biodegradable
+Sodium nitrite,007632-00-0,69,308.95,0.004265795,9.92E-15,1000000,0.008763,readily biodegradable
+"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium salt",007632-50-0,209.16,224.96,1.41E-05,2.76E-11,1000000,0.0006797,readily biodegradable
+Zinc chloride (ZnCl2),007646-85-7,136.3,203.22,1.412537545,6.23E-08,64660,1.348,not biodegradable
+POTASSIUM BISULFATE,007646-93-7,136.16,349.84,1.41E-07,2.01E-22,1000000,0.001984,not biodegradable
+Hydrochloric acid,007647-01-0,35.45,157.8,3.467368505,0.00000555,42370,2.939,readily biodegradable
+Sodium chloride,007647-14-5,58.44,304.03,0.34673685,2.08E-21,339500,0.3984,readily biodegradable
+Sodium bromide,007647-15-6,102.89,313.47,0.426579519,4.77E-15,237900,0.477,not biodegradable
+Phosphoric acid,007664-38-2,98,90.27,0.169824365,8.12E-09,538600,4.004,not biodegradable
+Hydrofluoric acid,007664-39-3,20.01,138.38,1.698243652,0.0000221,57360,1.582,readily biodegradable
+Ammonia,007664-41-7,17.03,260.6,1.698243652,2.21E-11,1000000,0.06337,readily biodegradable
+Sulfuric acid,007664-93-9,98.07,270.47,0.006309573,0.019,1000000,0.7407,not biodegradable
+"SULFURIC ACID, MONOSODIUM SALT",007681-38-1,120.06,349.84,1.41E-07,2.01E-22,1000000,0.001984,not biodegradable
+SODIUM HYPOCHLORITE,007681-52-9,74.44,309.66,0.000380189,1.38E-11,1000000,0.001075,readily biodegradable
+"DISULFUROUS ACID, DISODIUM SALT",007681-57-4,190.1,349.84,4.47E-08,1.93E-19,1000000,0.001522,not biodegradable
+Tetramethrin,007696-12-0,331.42,211.26,346736.8505,0.00000167,0.7316,2795,not biodegradable
+Nitric acid,007697-37-2,62,189.14,1.621810097,0.000000108,90900,1.52,readily biodegradable
+SULFUR,007704-34-9,34.08,173.17,1.698243652,0.000000508,1000000,0.06337,readily biodegradable
+Hydrogen peroxide,007722-84-1,34.01,205.04,0.026915348,487,1000000,0.04335,readily biodegradable
+TETRASODIUM PYROPHOSPHATE,007722-88-5,265.9,90.27,3.55E-11,0.00000354,1000000,0.00001771,not biodegradable
+"PEROXYDISULFURIC ACID, DIPOTASSIUM SALT",007727-21-1,270.31,349.84,0.000954993,2.44E-20,1000000,0.378,not biodegradable
+Nitrogen,007727-37-9,28.01,336.69,4.677351413,2.22E+12,29330,3.811,readily biodegradable
+ZINC SULFATE,007733-02-0,161.45,293.62,0.851138038,3.03E-17,77500,11.16,not biodegradable
+Disodium sulfate,007757-82-6,142.04,346.06,4.17E-05,2.34E-17,1000000,0.04611,not biodegradable
+SODIUM SULFITE (2:1),007757-83-7,126.04,340.43,1.66E-08,5.89E-17,1000000,0.000607,not biodegradable
+SODIUM CHLORITE,007758-19-2,90.44,307.31,6.61E-08,1.29E-14,1000000,5.86E-07,readily biodegradable
+PENTASODIUM TRIPOLYPHOSPHATE,007758-29-4,367.86,90.27,5.50E-14,0.00000274,1000000,4.94E-07,not biodegradable
+COPPER(2+) SULFATE,007758-98-7,159.6,286.9,0.676082975,7.30E-17,96200,9.829,not biodegradable
+COPPER SULFATE PENTAHYDRATE,007758-99-8,159.6,286.9,0.676082975,7.30E-17,96200,9.829,not biodegradable
+"Thiosulfuric acid, disodium salt",007772-98-7,158.1,342.24,2.95E-05,4.38E-17,1000000,0.03809,not biodegradable
+SODIUM CHLORATE,007775-09-9,106.44,304.96,6.61E-08,9.69E-14,1000000,5.86E-07,not biodegradable
+CALCIUM HYPOCHLORITE,007778-54-3,142.98,260.26,0.003467369,6.70E-09,1000000,0.007321,not biodegradable
+AMMONIUM SULFATE,007783-20-2,132.13,349.84,3.01995172,8.83E-20,35160,22.49,not biodegradable
+Magnesium chloride (MgCl2),007786-30-3,95.21,205.22,1.122018454,0.000000059,109500,1.104,not biodegradable
+Hypochlorous acid,007790-92-3,52.46,194.89,0.134896288,2.47E-10,1000000,0.1756,readily biodegradable
+"Oils, rosemary",008000-25-7,154.25,26.56,707.9457844,0.0572,1186,100.4,not biodegradable
+"Oils, cedarwood",008000-27-9,204.36,47.96,549540.8739,0.0184,0.1504,95800,not biodegradable
+"Oils, lavender",008000-28-0,196.29,-2.09,24547.08916,17.5,20.12,1080,not biodegradable
+"Oils, citronella",008000-29-1,154.25,-28.33,3388.441561,33.9,38.94,652.1,readily biodegradable
+"Oils, clove",008000-34-8,164.21,60.57,537.0317964,1.26,754,253.2,not biodegradable
+Terpineol,008000-41-7,154.25,12.36,2137.96209,2.62,371.7,212.8,not biodegradable
+"Oils, eucalyptus",008000-48-4,154.25,8.14,1348.962883,208,332.1,223.9,not biodegradable
+"Oils, garlic",008000-78-0,146.27,-24.44,3630.780548,129,71.1,1228,not biodegradable
+Soybean oil,008001-22-7,879.41,349.84,4.47E+22,6.78E-19,9.97E-20,2.10E+13,not biodegradable
+Safflower oil,008001-23-8,879.41,349.84,4.47E+22,6.78E-19,9.97E-20,2.10E+13,not biodegradable
+BENZALKONIUM CHLORIDE,008001-54-5,340,230.18,851.1380382,2.51E-09,22.47,287.5,not biodegradable
+Castor oil,008001-79-4,905.41,349.84,1.26E+18,4.33E-27,5.06E-16,9609000000,readily biodegradable
+Rape oil,008002-13-9,447.02,112.19,12302687.71,0.0000105,0.001367,51950,readily biodegradable
+Paraffin waxes and Hydrocarbon waxes,008002-74-2,282.56,51.84,14454397707,0.0413,0.000009409,656800000,readily biodegradable
+Palm oil,008002-75-3,859.42,349.84,3.31E+22,7.28E-18,1.73E-19,1.78E+13,not biodegradable
+Pyrethrins and Pyrethroids,008003-34-7,328.46,143.07,1412537.545,0.000397,0.04642,28630,not biodegradable
+"Turpentine, oil",008006-64-2,148.25,19.34,15488.16619,318,5.875,4326,not biodegradable
+"Oils, peppermint",008006-90-4,156.27,-5.9,2398.832919,1.02,434.5,189.7,not biodegradable
+"Oils, lemongrass",008007-02-1,152.24,-26.74,2818.382931,12.2,84.71,401.9,readily biodegradable
+"Oils, cedar leaf",008007-20-3,136.24,-13.62,18620.87137,536,4.071,7130,not biodegradable
+"Oils, mustard",008007-40-7,939.55,349.84,1.10E+25,5.55E-20,3.51E-22,4.41E+14,not biodegradable
+"Oils, bergamot",008007-75-8,196.29,-2.09,24547.08916,17.5,20.12,1080,not biodegradable
+"Oils, cassia",008007-80-5,132.16,0.04,66.0693448,4.49,2150,55.82,readily biodegradable
+Kerosine (petroleum),008008-20-6,170.34,-20.85,1698243.652,31.5,0.1099,196700,readily biodegradable
+"Oils, lime",008008-26-2,166.27,-14.83,4570.881896,20.2,47.5,1397,not biodegradable
+"Oils, lemon",008008-56-8,136.24,-40.76,67608.29754,193,4.581,6324,not biodegradable
+"Oils, orange, sweet",008008-57-9,136.24,-40.76,67608.29754,193,4.581,6324,not biodegradable
+"Oils, spearmint",008008-79-5,150.22,9.86,1174.897555,17.3,367.1,416.6,not biodegradable
+Paraffin oils,008012-95-1,170.34,-20.85,1698243.652,31.5,0.1099,196700,readily biodegradable
+"Oils, cypress",008013-86-3,96.09,-29.49,6.760829754,309,53580,8.368,readily biodegradable
+"Oils, bois de rose",008015-77-8,136.24,-15.3,22387.21139,334,7.061,4074,not biodegradable
+"Oils, cinnamon",008015-91-6,132.16,0.04,66.0693448,4.49,2150,55.82,readily biodegradable
+"Oils, grapefruit",008016-20-4,136.24,-40.76,67608.29754,193,4.581,6324,not biodegradable
+"Oils, olibanum",008016-36-2,136.24,-40.76,67608.29754,193,4.581,6324,not biodegradable
+"Oils, clary sage",008016-63-5,196.29,-2.09,24547.08916,17.5,20.12,1080,not biodegradable
+"Soybean oil, hydrogenated",008016-70-4,863.45,349.84,8.91E+22,1.14E-17,6.98E-20,3.08E+13,not biodegradable
+MINERAL OIL,008020-83-5,170.34,-42.96,1230268.771,165,0.1126,192800,not biodegradable
+"Oils, lavandin",008022-15-9,154.25,-11.39,2398.832919,11.1,683.7,143.4,not biodegradable
+"Oils, jasmine",008022-96-6,136.15,-11.87,67.60829754,50.6,1344,107.7,readily biodegradable
+"Quaternary ammonium compounds, trimethyltallow alkyl, chlorides",008030-78-2,346.04,225.06,8912.509381,5.52E-09,2.76,1054,not biodegradable
+"Fatty acids, tallow, sodium salts",008052-48-0,304.45,250.71,8317.637711,1.68E-10,5.209,210.9,readily biodegradable
+"Lignosulfonic acid, sodium salt",008061-51-6,512.53,349.84,0.000354813,7.89E-25,522400,0.1975,not biodegradable
+"Ethene, homopolymer",009002-88-4,478.94,188.12,1.10E+17,0.0000103,7.97E-13,6.15E+14,not biodegradable
+"Poly(oxy-1,2-ethanediyl), ?dodecyl- -hydroxy-",009002-92-0,406.61,175.92,2511.886432,1.01E-08,11.31,87.36,not biodegradable
+Octoxynol,009002-93-1,250.38,95.66,72443.59601,932,5.356,1810,not biodegradable
+"1-Propene, homopolymer",009003-07-0,506.99,71.95,1.62E+17,0.0000931,3.75E-13,8.63E+14,not biodegradable
+"Poly[oxy(methyl-1,2-ethanediyl)], ?butyl- -hydroxy-",009003-13-8,294.39,116.46,0.295120923,0.0000254,121700,0.5855,readily biodegradable
+"2-Pyrrolidinone, 1-ethenyl-, homopolymer",009003-39-8,446.59,294.75,1.9498446,9.75E-14,42.97,8.01,not biodegradable
+SODIUM LAURYL ETHER SULFATE,009004-82-4,372.46,290.23,41.68693835,2.01E-13,187.3,63.3,not biodegradable
+"Sorbitan, monododecanoate, poly(oxy-1,2-ethanediyl) derivs.",009005-64-5,1007.27,349.84,0.009332543,1.15E-30,15.76,0.01904,not biodegradable
+DIMETHICONE,009006-65-9,533.16,-18.38,3.31E+12,1.23,2.49E-08,73400000000,not biodegradable
+"Poly(oxy-1,2-ethanediyl), ?(nonylphenyl)- -hydroxy-",009016-45-9,440.63,209.48,30199.5172,1.29E-10,0.827,484.4,not biodegradable
+Boric acid,010043-35-3,61.83,267.04,0.602559586,9.82E-15,98150,1.403,readily biodegradable
+Calcium chloride (CaCl2),010043-52-4,110.98,205.22,1.122018454,0.000000059,97970,1.104,not biodegradable
+Chlorine dioxide,010049-04-4,67.45,156.94,0.00060256,0.00000365,1000000,0.001603,readily biodegradable
+"Butanoic acid, 1,1-dimethyl-2-phenylethyl ester",010094-34-5,220.31,49.18,26915.34804,0.343,5.701,2041,not biodegradable
+Dipotassium sulfite,010117-38-1,158.25,342.24,2.95E-05,4.38E-17,1000000,0.03809,not biodegradable
+"Acetamide, 2,2-dibromo-2-cyano-",010222-01-2,241.87,125.76,10.23292992,0.00209,2841,58.49,not biodegradable
+"1,6-Nonadien-3-ol, 3,7-dimethyl-",010339-55-6,168.28,-0.13,7413.102413,2.35,99.98,451.1,not biodegradable
+"3-Octyloxy-propane-1,2-diol",010438-94-5,204.31,70.07,194.98446,0.00129,460.3,18.98,readily biodegradable
+"Cyclopropanecarboxylic acid, 2,2-dimethyl-3-(2-methyl-1-propenyl)-, [",010453-86-8,338.45,146.28,12882495.52,0.000707,0.0415,18020,not biodegradable
+"3-Cyclohexene-1-methanol, .alpha.,.alpha.,4-trimethyl-, (S)-",010482-56-1,154.25,12.36,2137.96209,2.62,371.7,212.8,not biodegradable
+"Acetamide, N,N'-1,2-ethanediylbis N-acetyl-",010543-57-4,228.25,186.17,0.004365158,0.00000197,157400,0.3703,not biodegradable
+"Naphthenic acids, zinc salts",012001-85-3,319.72,148.65,1819.700859,0.0000124,15.4,186.1,not biodegradable
+Ammonium chloride,012125-02-9,53.49,268.22,4.27E-05,3.16E-10,1000000,0.000161,readily biodegradable
+C.I. Pigment Yellow 100,012225-21-7,468.42,344.09,0.16218101,9.13E-22,0.9788,1.332,not biodegradable
+"2-Heptanol, 2,6-dimethyl-",013254-34-7,144.26,-23.45,1288.249552,48.5,572,171.4,not biodegradable
+"Zinc, bis(1-hydroxy-2(1H)-pyridinethionato-O,S)-, (T-4)-",013463-41-7,317.7,210.99,0.01023293,4.72E-08,487600,1.504,not biodegradable
+Titanium dioxide,013463-67-7,79.87,242.69,169.8243652,327000,1634,86.1,not biodegradable
+SODIUM ORTHOSILICATE,013472-30-5,184.04,319.8,1.35E-11,1.71E-15,1000000,3.68E-10,not biodegradable
+"Guanidine, dodecyl-, monohydrochloride",013590-97-1,263.86,205.39,0.549540874,0.00000011,336300,5.199,not biodegradable
+"1,2-Ethanediamine, N-(2-nitro-1-phenylpropyl)-",014762-38-0,223.28,117.11,3.311311215,0.00404,49250,23.25,not biodegradable
+Quartz (SiO2),014808-60-7,60.08,158.94,3.388441561,0.00000714,48440,2.881,readily biodegradable
+"3-Buten-2-one, 4-(2,6,6-trimethyl-1-cyclohexen-1-yl)-",014901-07-6,192.3,52.45,26302.67992,3.03,25.16,1757,not biodegradable
+"Phenol, 4-chloro-3-methyl-, sodium salt",015733-22-9,164.57,198.34,1.047128548,0.00000032,62890,12.68,not biodegradable
+"2(1H)-Pyridinethione, 1-hydroxy-, sodium salt",015922-78-8,149.14,217.92,0.001905461,1.65E-08,1000000,0.5003,not biodegradable
+"2,4-Imidazolidinedione, 1-bromo-3-chloro-5,5-dimethyl-",016079-88-2,241.47,138.82,0.114815362,0.000881,8264,2.341,not biodegradable
+"2H-Pyran, tetrahydro-4-methyl-2-(2-methyl-1-propenyl)-",016409-43-1,154.25,-29.92,3801.893963,87.6,63.97,652.7,not biodegradable
+Methomyl,016752-77-5,162.21,2.65,4.073802778,3.41,20550,16.27,not biodegradable
+"4,7-Methano-1H-inden-6-ol, 3a,4,5,6,7,7a-hexahydro-, propanoate",017511-60-3,206.29,45.26,2187.761624,0.941,57.27,509.3,readily biodegradable
+"Benzenepropanal, 4-(1,1-dimethylethyl)-",018127-01-0,190.29,46.3,8709.6359,0.666,21.05,750.2,not biodegradable
+"D-Gluconic acid, compd. with N,N' -bis(4-chlorophenyl)-3,12-diimino-2",018472-51-0,701.62,349.84,0.467735141,5.91E-34,65.36,0.2687,not biodegradable
+"7-Octen-2-ol, 2,6-dimethyl-",018479-58-8,156.27,-13.1,2951.209227,16.6,252.2,271,not biodegradable
+Prallethrin,023031-36-9,300.4,140.52,75857.7575,0.00358,1.788,3457,not biodegradable
+"2,4-Hexadienoic acid, potassium salt, (E,E)-",024634-61-5,150.22,173.92,0.006456542,0.00000237,1000000,0.08798,readily biodegradable
+"2-Buten-1-one, 1-(2,6,6-trimethyl-2-cyclohexen-1-yl)-, (E)-",024720-09-0,192.3,43.06,19498.446,2.48,10.31,3116,not biodegradable
+"Cyclopentaneacetic acid, 3-oxo-2-pentyl-, methyl ester",024851-98-7,226.32,73.64,954.992586,0.158,91.72,505.2,readily biodegradable
+"Poly(oxy-1,2-ethanediyl), ?tridecyl- -hydroxy-",024938-91-8,420.64,183.82,7762.471166,3.64E-09,3.52,163.1,not biodegradable
+"Benzenesulfonic acid, dodecyl-, sodium salt",025155-30-0,348.48,287.63,1000,3.05E-13,134.1,102.1,not biodegradable
+"Propanol, oxybis-",025265-71-8,134.18,6.09,0.229086765,0.973,310700,0.4546,readily biodegradable
+"Poly(oxy-1,2-ethanediyl), ?hydro- -hydroxy-",025322-68-3,238.28,108.45,0.005011872,0.0000398,1000000,0.02935,readily biodegradable
+"Poly[oxy(methyl-1,2-ethanediyl)], ?hydro- -hydroxy-",025322-69-4,308.42,112.61,0.616595002,0.0000095,16540,0.4204,not biodegradable
+Phenothrin,026002-80-2,350.46,156.34,34673685.05,0.000256,0.04537,17370,not biodegradable
+"2-PROPEN-1-AMINIUM, N,N-DIMETHYL-N-2-PROPENYL C",026062-79-3,161.68,133.02,0.003235937,0.00047,1000000,0.2888,not biodegradable
+"3(2H)-Isothiazolone, 5-chloro-2-methyl-",026172-55-4,149.6,68.91,0.45708819,0.72,148700,5.146,not biodegradable
+"Octanoic acid, monoester with 1,2,3-propanetriol",026402-26-6,218.3,84.79,51.2861384,0.000311,1229,9.604,readily biodegradable
+"3(2H)-Isothiazolone, 5-chloro-2-methyl-, hydrochloride",026530-03-0,186.06,157.9,0.043651583,0.000125,742200,1.404,not biodegradable
+"3(2H)-Isothiazolone, 2-octyl-",026530-20-1,213.34,113.04,407.3802778,0.0266,301.8,179.8,not biodegradable
+"Benzenesulfonic acid, dodecyl-",027176-87-0,326.5,177.76,60255.95861,1.06E-08,0.7032,3707,not biodegradable
+"Benzenesulfonic acid, dodecyl-, potassium salt",027177-77-1,364.59,287.63,1000,3.05E-13,13.93,384.1,not biodegradable
+"Benzenesulfonic acid, dodecyl-, compd. with 2,2 ,2  -nitrilotris[etha",027323-41-7,474.68,343.73,70.79457844,1.41E-22,27.1,16.66,readily biodegradable
+"1-Octadecanaminium, N,N-dimethyl-N-[3-(trimethoxysilyl)propyl]-, chlo",027668-52-6,496.3,267.26,79432.82347,7.73E-12,0.04992,3534,not biodegradable
+"2-Buten-1-ol, 2-ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-",028219-61-6,208.35,60.19,138038.4265,0.00958,5.256,2274,not biodegradable
+trans-(+)-Allethrin,028434-00-6,302.42,126.18,331131.1215,0.0047,0.9838,5001,not biodegradable
+Bromadiolone,028772-56-7,527.42,308.78,10471285.48,1.80E-17,0.001558,8310,not biodegradable
+Pirimiphos-methyl,029232-93-7,305.33,89.53,10000,0.00501,2.959,3089,not biodegradable
+"Poly(oxy-1,2-ethanediyl), ??,? -1,2,3-propanetriyltris[ -hydroxy-",031694-55-0,770.87,349.84,2.88E-06,2.81E-23,635000,0.0002533,not biodegradable
+"Silanediol, dimethyl-, homopolymer",031900-57-9,388.79,44.59,1288249.552,0.000968,0.06153,200700,not biodegradable
+"3-Cyclohexene-1-carboxaldehyde, 4-(4-hydroxy-4-methylpentyl)-",031906-04-4,210.32,77.32,2089.296131,0.0114,184.6,132.1,readily biodegradable
+"Cyclohexanol, 4-(1,1-dimethylethyl)-, acetate",032210-23-4,198.31,10.93,26302.67992,9.13,3.552,3270,not biodegradable
+"Poly(iminocarbonimidoyliminocarbonimidoylimino-1,6-hexanediyl), hydro",032289-58-0,687.35,349.84,7.94E-11,2.21E-26,1000000,0.000007231,not biodegradable
+"Ethanone, 1-(2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-1H-3a,7-metha",032388-55-9,246.4,91.67,104712.8548,0.0764,1.278,7896,not biodegradable
+"4H-Inden-4-one, 1,2,3,5,6,7-hexahydro-1,1,2,3,3-pentamethyl-",033704-61-9,206.33,70.77,30902.95433,0.537,5.937,4020,not biodegradable
+"Ethanol, 2-(hydroxymethylamino)-",034375-28-5,91.11,17.62,0.006309573,3.07,1000000,0.06946,readily biodegradable
+"Propanol, 1(or 2)-(2-methoxymethylethoxy)-",034590-94-8,148.2,-15.51,0.446683592,19.8,493600,1.377,not biodegradable
+"Benzoic acid, 4-hydroxy-, ethyl ester, sodium salt",035285-68-8,188.16,212.67,0.141253754,3.66E-08,265600,3.599,readily biodegradable
+"Benzamide, N-  (4-chlorophenyl)amino carbonyl -2,6-difluoro-",035367-38-5,310.69,212.45,3890.45145,1.82E-08,5.164,645.8,not biodegradable
+"Pentanedinitrile, 2-bromo-2-(bromomethyl)-",035691-65-7,265.94,97.23,42.65795188,0.0332,424,408.4,not biodegradable
+"Benzenesulfonic acid, decyl(sulfophenoxy)-, disodium salt",036445-71-3,514.56,349.84,30.90295433,1.36E-18,30.65,56.14,not biodegradable
+1-Hexadecanol,036653-82-4,242.45,68.61,5370317.964,0.00119,0.1495,17230,readily biodegradable
+Baysan (BAY MEB 6401),038083-17-9,292.77,134.05,5754.399373,0.00044,8.281,4517,not biodegradable
+"Urea, N,N  -methylenebis[N -[3-(hydroxymethyl)-2,5-dioxo-4-imidazolid",039236-46-9,388.3,349.84,5.25E-09,7.32E-25,1000000,0.00002089,not biodegradable
+Cyphenothrin,039515-40-7,375.47,49.86,3090295.433,0.000073,0.00682,78960,not biodegradable
+-,042822-86-6,172.27,46.57,194.98446,0.0638,670.7,23.38,readily biodegradable
+"3,5,7-Triaza-1-azoniatricyclo[3.3.1.13,7]decane, 1-(3-chloro-2-propen",051229-78-8,215.71,187,1.20E-06,0.00000174,1000000,0.00233,not biodegradable
+SODIUM DICHLOROISOCYANURATE DIHYDRATE,051580-86-0,219.95,276,0.87096359,1.94E-12,38420,7.438,not biodegradable
+-,052304-36-6,215.29,81.77,32.35936569,0.0484,1867,44.4,readily biodegradable
+Cypermethrin,052315-07-8,416.31,82.07,2398832.919,0.0000174,0.001559,140100,not biodegradable
+Permethrin,052645-53-1,391.3,164.97,26915348.04,0.00011,0.009747,32420,not biodegradable
+Decamethrin,052918-63-5,505.21,139.52,1513561.248,0.00000116,0.001827,54580,not biodegradable
+Empenthrin,054406-48-3,274.41,81.97,1621810.097,0.33,0.08639,19700,not biodegradable
+"Ethanone, 1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthal",054464-57-2,234.38,85.76,151356.1248,0.147,1.077,9681,not biodegradable
+"1,4-Dioxacyclohexadecane-5,16-dione",054982-83-1,256.35,63.39,16595.86907,0.000326,5.417,1343,readily biodegradable
+"Benzenepentanol, G-methyl-",055066-48-3,178.28,37.93,2884.031503,0.0398,202.6,267.6,not biodegradable
+"Carbamic acid, butyl-, 3-iodo-2-propynyl ester",055406-53-6,281.09,87.99,281.8382931,0.0616,126.6,150,not biodegradable
+"1-Butanol, 3-methoxy-3-methyl-",056539-66-3,118.18,-25.29,2.884031503,103,134600,4.759,readily biodegradable
+"2-91H,3H,5H-oxazolo[3,4-c]oxazol-3a(4H)-ylmethyl1-w-hydroxy",056709-13-8,295.29,145.57,0.00042658,0.00000565,1000000,0.008914,not biodegradable
+Propiconazole,060207-90-1,342.23,172.86,13489.62883,0.000479,4.592,748.9,not biodegradable
+"Castor oil, hydrogenated, ethoxylated",061788-85-0,1153.73,349.84,5.13E+17,1.37E-34,2.16E-17,2060000000,not biodegradable
+"Quaternary ammonium compounds, coco alkyltrimethyl, chlorides",061789-18-2,263.9,182.19,16.59586907,0.00000124,1795,32.57,not biodegradable
+"Fatty acids, coco, sodium salts",061789-31-9,222.31,216.51,15.48816619,2.04E-08,3244,6.516,readily biodegradable
+"1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-coco acyl",061789-40-0,343.53,282.96,4.897788194,6.41E-13,1755,2.659,readily biodegradable
+"Quaternary ammonium compounds, benzylcoco alkyldimethyl, chlorides",061789-71-7,340,230.18,851.1380382,2.51E-09,22.47,287.5,not biodegradable
+"Quaternary ammonium compounds, dicoco alkyldimethyl, chlorides",061789-77-3,418.2,250.49,4168693.835,1.08E-10,0.005215,31600,readily biodegradable
+"Quaternary ammonium compounds, bis(hydrogenated tallow alkyl)dimethyl",061789-80-8,586.52,315.53,3.31E+12,2.55E-12,4.04E-09,57960000,not biodegradable
+"Quaternary ammonium compounds, trimethylsoya alkyl, chlorides",061790-41-8,344.03,226.73,5495.408739,4.27E-09,4.332,806.6,not biodegradable
+"Amines, coco alkyl, acetates",061790-57-6,245.41,191.05,1445.439771,0.000000954,50.16,264.2,readily biodegradable
+"Lanolin, ethoxylated",061790-81-6,606.94,265.3,23442288.15,1.79E-14,0.0002397,13720,not biodegradable
+"Ethanol, 2,2'-iminobis-, N-coco alkyl derivs.",061791-31-9,273.46,131.43,7943.282347,0.00000235,83.13,156.3,readily biodegradable
+"Onium compounds, morpholinium, 4-ethyl-4-soya alkyl, Et sulfates",061791-34-2,477.75,298.14,10000000,5.65E-14,0.001053,60350,not biodegradable
+"Siloxanes and Silicones, di-Me",063148-62-9,310.69,-36.27,144543977.1,64.8,0.002918,13340000,not biodegradable
+"2H-Pyran-4-ol, tetrahydro-4-methyl-2-(2-methylpropyl)-",063500-71-0,172.27,24.55,144.5439771,1.59,2773,41.48,not biodegradable
+Triflumuron,064628-44-0,358.71,222.17,17378.00829,0.000000018,0.3517,2728,not biodegradable
+"1H-Benzotriazole, 4(or 5)-methyl-, sodium salt",064665-57-2,155.14,217.83,1.380384265,1.67E-08,55000,1.322,not biodegradable
+"Distillates (petroleum), hydrotreated light",064742-47-8,170.34,-20.85,1698243.652,31.5,0.1099,196700,readily biodegradable
+"Naphtha (petroleum), hydrotreated heavy",064742-48-9,128.26,-56.16,57543.99373,661,0.4058,80030,readily biodegradable
+"Kerosine (petroleum), hydrodesulfurized",064742-81-0,170.34,-20.85,1698243.652,31.5,0.1099,196700,readily biodegradable
+"Solvent naphtha (petroleum), light aliph.",064742-89-8,100.21,-81.01,6025.595861,6120,3.554,11070,readily biodegradable
+"Solvent naphtha (petroleum), light arom.",064742-95-6,128.18,5.01,1479.108388,5.38,142.1,730.6,not biodegradable
+"Benzoic acid, 2-hydroxy-, 3-hexenyl ester, (Z)-",065405-77-8,220.27,99.52,69183.09709,0.0026,9.518,5052,readily biodegradable
+Methoprene isomer,065733-16-6,310.48,53.8,2187761.624,0.0316,0.2142,6473,not biodegradable
+alpha-Cypermethrin,067375-30-8,416.31,82.07,2398832.919,0.0000174,0.001559,140100,not biodegradable
+Hydramethylnon,067485-29-4,494.49,212.75,323593656.9,7.16E-08,8.271,130.5,not biodegradable
+"Acetic acid, (3-methylbutoxy)-, 2-propenyl ester",067634-00-8,186.25,-4.74,218.7761624,19.7,510.7,115.7,readily biodegradable
+"Fatty acids, C8-18 and C18-unsatd.",067701-05-7,144.22,48.39,1071.519305,6.51,495.9,69.63,readily biodegradable
+"Glycerides, C14-18 mono- and di-",067701-33-1,330.51,149.62,426579.5188,9.51E-08,0.1252,1415,readily biodegradable
+"Quaternary ammonium compounds, coco alkyltrimethyl, Me sulfates",068002-60-8,339.54,237.82,4073.802778,7.72E-10,5.906,991.3,not biodegradable
+"Alcohols, C10-16, ethoxylated",068002-97-1,334.5,137.45,489.7788194,0.0000015,125.3,43.57,readily biodegradable
+"3-Cyclohexene-1-carboxaldehyde, 2,4-dimethyl-",068039-49-6,138.21,-10.07,707.9457844,46.9,311.5,187.2,readily biodegradable
+"Alcohols, C12-15, ethoxylated",068131-39-5,406.61,175.92,2511.886432,1.01E-08,11.31,87.36,not biodegradable
+"Amides, coco, N-(hydroxyethyl)",068140-00-1,243.39,154.12,1737.800829,0.000000876,43.9,190.6,readily biodegradable
+"Alcohols, C10-12, ethoxylated propoxylated",068154-97-2,186.34,-3.92,95499.2586,19.9,2.874,3882,readily biodegradable
+"Ethanone, 1-(1,2,3,5,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphtha",068155-66-8,234.38,78.98,51286.1384,0.201,2.725,5320,not biodegradable
+"Oils, vegetable, hydrogenated",068334-28-1,891.51,349.84,8.71E+23,2.64E-18,6.53E-21,1.09E+14,not biodegradable
+Cyfluthrin,068359-37-5,434.3,92.74,549540.8739,0.0000351,0.008429,39690,not biodegradable
+"Quaternary ammonium compounds, benzyl-C12-18-alkyldimethyl,chlorides",068391-01-5,368.05,241.02,8128.305162,4.70E-10,2.203,1002,not biodegradable
+"ALKYLBENZENESULFONIC ACID, SODIUM SALT C10-C13",068411-30-3,320.43,276.79,104.7128548,1.71E-12,177,110.3,not biodegradable
+"Quaternary ammonium compounds, benzyl-C12-16-alkyldimethyl,chlorides",068424-85-1,368.05,241.02,8128.305162,4.70E-10,2.203,1002,not biodegradable
+"Betaines, coco alkyldimethyl",068424-94-2,273.46,221.75,295.1209227,9.17E-09,334,27.22,readily biodegradable
+"Quaternary ammonium compounds, di-C8-10-alkyldimethyl, chlorides",068424-95-3,334.03,217.97,4786.300923,1.63E-08,5.608,747.3,readily biodegradable
+"Amides, soya, N,N-bis(hydroxyethyl)",068425-47-8,371.61,202.86,676082.9754,1.04E-10,0.04793,1904,readily biodegradable
+"Alcohols, C9-11, ethoxylated",068439-46-3,378.55,166.1,263.0267992,32.3,116.2,25.07,readily biodegradable
+"Alcohols, C12-14, ethoxylated propoxylated",068439-51-0,214.39,17.75,912010.8394,3.31,0.2995,13530,readily biodegradable
+"Sulfonic acids, C14-16-alkane hydroxy and C14-16-alkene, sodium salts",068439-57-6,314.46,264.58,223.8721139,1.18E-11,100,167.9,readily biodegradable
+"D-Glucopyranose, oligomeric, decyl octyl glycosides",068515-73-1,482.57,294.95,0.263026799,2.75E-18,2878,0.2624,readily biodegradable
+"Alcohols, C12-16, ethoxylated",068551-12-2,214.39,17.75,912010.8394,3.31,0.2995,13530,readily biodegradable
+"Alkanes, C10-13-iso-",068551-17-7,154.3,-55.32,204173.7945,1830,0.614,40560,not biodegradable
+"Alkanes, C10-14-iso-",068551-18-8,142.29,-55.45,151356.1248,318,0.8985,31280,readily biodegradable
+"Alkanes, C12-14-iso-",068551-19-9,184.37,-20.46,4466835.922,36.2,0.03173,590400,readily biodegradable
+"Amides, coco, N,N-bis(hydroxyethyl)",068603-42-9,287.45,161.57,776.2471166,0.000000897,49.91,45.02,readily biodegradable
+"Oils, orange, sweet, terpene-free",068606-94-0,156.27,-8.09,5754.399373,31.4,43.52,596.5,readily biodegradable
+"Imidazolium compounds, 1(or 3)-(carboxymethyl)-4,5-dihydro-1-(hydroxy",068647-53-0,440.47,349.84,5.01E-07,2.59E-29,1000000,0.0001564,readily biodegradable
+"Terpenes and Terpenoids, sweet orange-oil",068647-72-3,136.24,-40.76,67608.29754,193,4.581,6324,not biodegradable
+"Oils, tea-tree",068647-73-4,154.25,8.14,1348.962883,208,332.1,223.9,not biodegradable
+"Quaternary ammonium compounds, C12-18-alkyl[(ethylphenyl)methyl]dimet",068956-79-6,368.05,237.75,6918.309709,7.80E-10,2.546,916.2,not biodegradable
+"Glycine, N-(hydroxymethyl)-, monosodium salt",070161-44-3,127.08,198.16,6.46E-07,3.24E-09,1000000,0.0001892,readily biodegradable
+"Amines, C10-16-alkyldimethyl, N-oxides",070592-80-2,201.36,152.6,4897.788194,0.0000458,30.35,795.8,readily biodegradable
+"Imidazolium compounds, 2-(C17 and C17-unsatd. alkyl)-1-[2-(C18 and C1",072749-55-4,631.11,349.84,8.71E+12,1.41E-19,8.98E-10,93300000,not biodegradable
+Imiprothrin,072963-72-5,318.38,198.55,954.992586,0.0000209,31.96,242.2,not biodegradable
+Etofenprox,080844-07-1,376.5,178.57,29512092.27,0.0000279,0.004075,70130,not biodegradable
+"3-Hepten-2-one, 3,4,5,6,6-pentamethyl-, (Z)-",081786-73-4,182.31,-18.03,15488.16619,47.2,14.27,2744,not biodegradable
+Bifenthrin,082657-04-3,422.88,167.36,141253754.5,0.0000522,0.0002407,233100,not biodegradable
+Teflubenzuron,083121-18-0,381.12,218.68,43651.58322,1.32E-08,0.5109,1536,not biodegradable
+"1-Propanaminium, 3,3',3''-[phosphinylidynetris(oxy)]tris[N-(3-aminopr",083682-78-4,1200.99,90.27,0.000288403,2.74E-09,0.7073,0.008186,not biodegradable
+"Alcohols, C12-14-secondary, ethoxylated",084133-50-6,406.61,174.93,2089.296131,1.68E-08,13.07,78.9,not biodegradable
+"Quaternary ammonium compounds, benzyl-C12-14-alkyldimethyl,chlorides",085409-22-9,340,230.18,851.1380382,2.51E-09,22.47,287.5,not biodegradable
+"2,4-Imidazolidinedione, 1,3-dichloro-5-ethyl-5-methyl-",089415-87-2,211.05,131.08,0.354813389,0.00172,4579,4.369,not biodegradable
+LEMONGRASS OIL,089998-16-3,152.24,-26.74,2818.382931,12.2,84.71,401.9,readily biodegradable
+Flocoumafen,090035-08-8,542.56,293.76,407380277.8,3.01E-15,0.00001683,184700,not biodegradable
+lambda-Cyhalothrin,091465-08-6,449.86,68.66,7079457.844,0.0000849,0.0008533,151200,not biodegradable
+"Hydrocarbons, C4, 1,3-butadiene-free, polymd., triisobutylene fractio",093685-81-5,170.34,-54.16,1023292.992,296,0.1301,164300,not biodegradable
+Tebuconazole,107534-96-3,307.83,162.86,7762.471166,0.00000614,24.75,429.7,not biodegradable
+"4-Penten-2-ol, 3,3-dimethyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl)-",107898-54-4,222.37,63.64,245470.8916,0.0166,2.711,3126,not biodegradable
+Novaluron,116714-46-6,492.71,229.05,181970.0859,1.21E-08,0.02518,3502,not biodegradable
+Transfluthrin,118712-89-3,371.16,104.52,1479108.388,0.0451,0.1002,7579,not biodegradable
+Fipronil,120068-37-3,437.15,203.92,4365158.322,0.000000151,0.3743,10040,not biodegradable
+CGA 219417 (cyprodinil),121552-61-2,225.3,126.5,9772.37221,0.00531,12.38,3111,not biodegradable
+"AC 303,630",122453-73-0,407.62,171.75,323593.6569,0.0000596,0.1119,7912,not biodegradable
+Imidacloprid,138261-41-3,255.67,156,3.630780548,0.000225,7172,33.64,not biodegradable
+THIAMETHOXAM,153719-23-4,291.71,163.65,6.309573445,0.0000543,2862,23.19,not biodegradable
+Dinotefuran,165252-70-0,202.21,92.76,0.645654229,0.0303,150100,4.307,not biodegradable
+Spinosad,168316-95-8,734.04,336.91,407380.2778,1.05E-16,0.003399,3542,not biodegradable
+DPX-MP062,173584-44-6,527.84,234.7,162181.0097,1.55E-08,0.05066,1823,not biodegradable
+Metofluthrin,240494-70-6,360.35,117.18,331131.1215,0.00268,0.1043,6640,not biodegradable

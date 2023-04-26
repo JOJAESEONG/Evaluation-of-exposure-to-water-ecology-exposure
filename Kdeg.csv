@@ -1,0 +1,5 @@
+contents,HL_d,RATE INCREASE factor per 10C,oneday_sec
+readily biodegradable,15,2.85,86400
+"readily biodegradable, failing 10-d window",50,2.85,86400
+inherently biodegradable,150,2.85,86400
+not biodegradable,,,86400
