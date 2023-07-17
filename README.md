@@ -27,6 +27,6 @@ total_program/
 
 #### 컨텐츠 표시화면 
 
-![simple](https://user-images.githubusercontent.com/29397382/234165076-e2ed8f9f-a4ec-4948-86b8-60f1dbafad4d.png)
+![메인1](https://github.com/JOJAESEONG/Evaluation-of-exposure-to-water-ecology-exposure/assets/29397382/586c0deb-622b-4a5d-b323-395d728be859)
 
 
